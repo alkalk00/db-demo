@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "students": [
+    {
+      "name": "souvikkdkdk",
+      "email": "a@gmai.com",
+      "phone": "303049403",
+      "regno": "1020030303",
+      "id": 1
+    },
+    {
+      "name": "dipeh",
+      "email": "dkdkdk929292",
+      "phone": "9929292",
+      "regno": "992929",
+      "id": 2
+    }
+  ]
 }
